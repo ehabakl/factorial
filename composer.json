@@ -1,0 +1,19 @@
+{
+    "name": "trd/utest",
+    "description": "ehab",
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "license": "2023",
+    "autoload": {
+        "psr-4": {
+            "Trd\\Utest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ehab"
+        }
+    ],
+    "minimum-stability": "stable"
+}
